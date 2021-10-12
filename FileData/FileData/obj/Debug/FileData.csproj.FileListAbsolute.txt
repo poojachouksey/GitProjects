@@ -1,0 +1,7 @@
+C:\Users\Royal\source\repos\FileData\FileData\bin\Debug\FileData.exe.config
+C:\Users\Royal\source\repos\FileData\FileData\bin\Debug\FileData.exe
+C:\Users\Royal\source\repos\FileData\FileData\bin\Debug\FileData.pdb
+C:\Users\Royal\source\repos\FileData\FileData\obj\Debug\FileData.csprojAssemblyReference.cache
+C:\Users\Royal\source\repos\FileData\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+C:\Users\Royal\source\repos\FileData\FileData\obj\Debug\FileData.exe
+C:\Users\Royal\source\repos\FileData\FileData\obj\Debug\FileData.pdb
